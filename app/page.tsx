@@ -38,7 +38,7 @@ export default function Home({ searchParams}: SearchParamProps) {
           </section>
 {/* Second part */}
           <Image
-        src="/assets/images/doc_nurse.jpg"
+        src="/assets/images/unboarding-img.png"
         height={1000}
         width={1000}
         alt="patient"
